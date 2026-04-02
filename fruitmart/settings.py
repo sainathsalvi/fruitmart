@@ -81,10 +81,10 @@ DATABASES = {
         #'ENGINE': 'django.db.backends.sqlite3',
         #'NAME': BASE_DIR / 'db.sqlite3',
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'fruit_mart',
-        'USER': 'root',
-        'PASSWORD': 'root',
-        'HOST': 'localhost',
+        'NAME': 'fruitmart',
+        'USER': 'admin',
+        'PASSWORD': 'SainathSalvi9096929234',
+        'HOST': 'fruitmart.cvgw88ye0k78.ap-south-1.rds.amazonaws.com',
         'PORT': '3306',
     }
 }
