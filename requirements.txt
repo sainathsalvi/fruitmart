@@ -7,3 +7,4 @@ PyJWT>=2.8,<3.0
 sqlparse>=0.4,<1.0
 tzdata>=2023.3
 gunicorn
+python-dotenv
